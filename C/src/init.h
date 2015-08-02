@@ -1,0 +1,1 @@
+void mongoc_init();
